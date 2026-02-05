@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+
+<h1><strong>Privacy Policy</strong></h1>
+
+<p>
+This Privacy Policy applies to the <strong>LangRush</strong> app (hereby referred to as the “Application”) for mobile devices that was created by <strong>Talha Hussain</strong> (hereby referred to as the “Service Provider”) as an ad-supported service. This service is provided “AS IS”.
+</p>
+
+<h2><strong>Information Collection and Use</strong></h2>
+
+<p>
+The Application does not require users to create an account and does not collect personally identifiable information such as name, email address, or phone number.
+</p>
+
+<p>
+The Service Provider does not collect or store user data on any server.
+</p>
+
+<p>
+However, third-party services used by the Application (such as advertising services) may collect certain information automatically, including:
+</p>
+
+<ul>
+  <li>Device Internet Protocol (IP) address</li>
+  <li>Device type and operating system</li>
+  <li>App usage statistics</li>
+  <li>Advertising identifiers</li>
+</ul>
+
+<p>
+This information is used for advertising and improving app performance in accordance with third-party privacy policies.
+</p>
+
+<h2><strong>User-Provided Data</strong></h2>
+
+<p>
+The Application allows users to enter text for translation, quiz generation, and summary generation.
+</p>
+
+<p>
+User-entered text is processed using third-party artificial intelligence services (OpenAI APIs) to generate translations, quizzes, and summaries.
+</p>
+
+<p>
+The Service Provider does not store this text on any external server.
+</p>
+
+<p>
+Translation history and favorite words are stored locally on the user’s device only and are not accessible to the Service Provider.
+</p>
+
+<h2><strong>Use of Artificial Intelligence</strong></h2>
+
+<p>
+The Application uses Artificial Intelligence (AI) technologies provided by OpenAI to perform translations, generate quizzes, and create summaries.
+</p>
+
+<p>
+User-entered text may be transmitted to OpenAI’s servers for processing in accordance with their Privacy Policy:
+</p>
+
+<p>
+<a href="https://openai.com/policies/privacy-policy" target="_blank">
+https://openai.com/policies/privacy-policy
+</a>
+</p>
+
+<h2><strong>Third-Party Services</strong></h2>
+
+<p>
+The Application uses the following third-party services:
+</p>
+
+<ul>
+  <li>Google AdMob (for advertisements)</li>
+</ul>
+
+<p>
+Google AdMob may collect and process data such as:
+</p>
+
+<ul>
+  <li>Advertising ID</li>
+  <li>Device information</li>
+  <li>Approximate location</li>
+  <li>Interaction with advertisements</li>
+</ul>
+
+<p>
+in accordance with Google’s Privacy Policy:
+</p>
+
+<p>
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+<h2><strong>Data Storage</strong></h2>
+
+<p>
+The Application does not use any backend server.
+</p>
+
+<p>
+All translation history and favorite words are stored locally on the user’s device.
+</p>
+
+<p>
+Users can delete all stored data by clearing the app’s storage or uninstalling the Application.
+</p>
+
+<h2><strong>Children’s Privacy</strong></h2>
+
+<p>
+The Application does not collect any personal information from users of any age.
+</p>
+
+<p>
+Since the Application does not require user accounts and does not collect personal data, there is no mechanism for children to submit personal information through the Application.
+</p>
+
+<p>
+The Application is not specifically directed toward children under the age of 13.
+</p>
+
+<h2><strong>Security</strong></h2>
+
+<p>
+The Service Provider is concerned about safeguarding user information.
+</p>
+
+<p>
+Because no personal data is stored on external servers by the Service Provider, risks related to data breaches are minimized. Local data is protected by the security features of the user’s device.
+</p>
+
+<h2><strong>Changes to This Privacy Policy</strong></h2>
+
+<p>
+This Privacy Policy may be updated from time to time.
+</p>
+
+<p>
+Users are advised to review this page periodically for any changes. Continued use of the Application indicates acceptance of any updates.
+</p>
+
+<h2><strong>Your Consent</strong></h2>
+
+<p>
+By using the Application, you consent to the processing of information as described in this Privacy Policy.
+</p>
+
+<h2><strong>Contact Us</strong></h2>
+
+<p>
+If you have any questions about this Privacy Policy or the practices of the Application, please contact:
+</p>
+
+<p>
+<strong>Talha Hussain</strong><br>
+📧 <strong>th47555@gmail.com</strong>
+</p>
+
+<p>
+<strong>Effective Date:</strong> 2026-01-31  
+<br>(Change this to today’s date when publishing)
+</p>
+
+</body>
+</html>
